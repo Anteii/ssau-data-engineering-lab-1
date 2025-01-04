@@ -1,5 +1,7 @@
 # Отчет по Лабораторной работе №1
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Anteii/ssau-data-engineering-lab-1/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-ru--ru-green.svg)](https://github.com/Anteii/ssau-data-engineering-lab-1/blob/main/README.ru-ru.md)
 
 ## Ход выполнения работы
 
